@@ -13,7 +13,7 @@ It is more than a virtual assistant it’s a concept of a personal digital compa
 ---
 
 <br>
-<img src="database/_README/introduce.gif" width="100%">
+<img src="database/_README/introducing.GIF" width="100%">
 <br>
 
 ## Installation
@@ -43,9 +43,9 @@ If you are on VSCode you must select the python interpreter that you locally cre
 
 ## User Guide
 
-1. Launch the Python application (run.py)
+1. Launch the Python application with run.py
 2. Ensure microphone and speaker access are enabled
-3. Speak a command or talk to Ivy
+3. Speak a command or chat to Ivy
 4. The assistant executes the task and responds via voice output
 
 ## Features
@@ -73,11 +73,15 @@ This are the current active commands, some few commands are API enabled:
 - **YouTube Search Integration** - Search and browse YouTube using voice commands
 - **Personalized Greetings** - Welcomes the user intelligently based on context
 - **Communication Suite** - Supports voice calls, video calls, and text messaging
-- **Device Information** - Displays detailed device status such as CPU usage, memory usage, battery percentage, and more
+- **Device Information** - Displays detailed device status such as CPU usage, memory usage, battery percentage, and mores
+
+If you wish to add a command just go to lib/main/command.py
 
 ## Some commands and features demo
 
 ### Face authentication:
+
+This face authentication is available at lib/auth/\* , if you wish to generate a face authentication for youself go to trainer.py and generate a face authentication for yourself
 
 <img src="database/_README/face-authentication.gif" width="70%">
 
@@ -102,7 +106,7 @@ This are the current active commands, some few commands are API enabled:
 This project was **influenced by** the repository  
 **[projectswithdigambar/jarvis](https://github.com/projectswithdigambar/jarvis)** on GitHub.
 
-While the design and concept draw inspiration from that work, this version introduces distinct enhancements, modified logic, and improved features, all developed within the span of one week
+While the design and concept draw inspiration from that work, this version introduces distinct enhancements such as offline capabilty, modified logic, and improved features, all developed within the span of one week
 
 ---
 
