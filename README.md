@@ -55,7 +55,7 @@ If you are on VSCode you must select the python interpreter that you locally cre
 - **Real-Time Processing** - Executes commands and fetches information instantly
 - **Offline Mode Support** - Basic functionalities available without an internet connection.
 - **Multi-Platform Compatibility** - Works seamlessly across different operating systems and devices
-- **Database Integration** - Stores user preferences, command history, and configurations
+- **Database Integration** - Stores user preferences and configurations
 - **Error Handling System** - Provides feedback and correction suggestions for failed commands
 - **Face Authentication** - Secure user access using facial recognition
 - **Hotword Detection - "Hey, Ivy"** - Always listening for activation keywords _(API ENABLED)_
