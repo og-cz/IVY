@@ -13,7 +13,7 @@ It is more than a virtual assistant it’s a concept of a personal digital compa
 ---
 
 <br>
-<img src="database/_README/introducing.GIF" width="100%">
+<img src="database/_README/introducing.gif" width="100%">
 <br>
 
 ## Installation
